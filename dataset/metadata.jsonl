@@ -4,7 +4,7 @@
     "type": "SURFICIAL GEOLOGY",
     "province": "nu",
     "year": 2022,
-    "dir": "geoscan/gid_313536",
+    "dir": "images/geoscan/gid_313536/cgm0391.jpg",
     "doi": "https://doi.org/10.4095/313536"
   },
   {
@@ -12,23 +12,39 @@
     "type": "Surficial geology",
     "province": "bc",
     "year": 1973,
-    "dir": "geoscan/gscmap-a_1329a_e_1973_mn01",
+    "dir": "images/geoscan/gscmap-a_1329a_e_1973_mn01/gscmap-a_1329a_e_1973_mn01.jpg",
     "doi": "https://doi.org/10.4095/109064"
   },
+  {
+    "name": "Surficial geology, Vancouver island and adjacent mainland, British Columbia, map - legend",
+    "type": "Surficial geology",
+    "province": "bc",
+    "year": 1982,
+    "dir": "images/geoscan/gid_129736/gscof_837_e_1982_lg01.jpg",
+    "doi": "https://doi.org/10.4095/129736"
+  },  
   {
     "name": "Surficial geology, Vancouver island and adjacent mainland, British Columbia, map",
     "type": "Surficial geology",
     "province": "bc",
     "year": 1982,
-    "dir": "geoscan/gid_129736",
+    "dir": "images/geoscan/gid_129736/gscof_837_e_1982_mn01.jpg",
     "doi": "https://doi.org/10.4095/129736"
   },  
   {
-    "name": "Surficial Geology, Kootenay Lake, British Columbia-Alberta",
+    "name": "Surficial Geology, Kootenay Lake, British Columbia-Alberta - legend",
     "type": "Surficial Geology",
     "province": "bc",
     "year": 1984,
-    "dir": "geoscan/gid_129894",
+    "dir": "images/geoscan/gid_129894/gscof_1084_e_1984_nt01.jpg",
+    "doi": "https://doi.org/10.4095/129894"
+  },  
+  {
+    "name": "Surficial Geology, Kootenay Lake, British Columbia-Alberta - map",
+    "type": "Surficial Geology",
+    "province": "bc",
+    "year": 1984,
+    "dir": "images/geoscan/gid_129894/gscof_1084_e_1984_mn01.jpg",
     "doi": "https://doi.org/10.4095/129894"
   },  
   {
@@ -36,7 +52,7 @@
     "type": "Surficial geology",
     "province": "bc",
     "year": 1974,
-    "dir": "geoscan/gscmap-a_1381a",
+    "dir": "images/geoscan/gscmap-a_1381a/gscmap-a_1381a_e_1974_mn01.jpg",
     "doi": "https://doi.org/10.4095/109156"
   },  
   {
@@ -44,7 +60,7 @@
     "type": "Surficial geology",
     "province": "on",
     "year": 1987,
-    "dir": "geoscan/gscmap-a_1644a",
+    "dir": "images/geoscan/gscmap-a_1644a/gscmap-a_1644a_b_1987_mn01.jpg",
     "doi": "https://doi.org/10.4095/122832"
   },  
   {
@@ -52,7 +68,7 @@
     "type": "Surficial geology",
     "province": "qc",
     "year": 1997,
-    "dir": "geoscan/gscmap-a_1863a",
+    "dir": "images/geoscan/gscmap-a_1863a/gscmap-a_1863a_f_1997_mn01.jpg",
     "doi": "https://doi.org/10.4095/208999"
   },
   {
@@ -60,7 +76,7 @@
     "type": "Surficial geology",
     "province": "qc",
     "year": 1996,
-    "dir": "geoscan/gscmap-a_1862a",
+    "dir": "images/geoscan/gscmap-a_1862a/gscmap-a_1862a_f_1996_mn01.jpg",
     "doi": "https://doi.org/10.4095/208590"
   },  
   {
@@ -68,7 +84,7 @@
     "type": "Surficial geology",
     "province": "ns",
     "year": 2008,
-    "dir": "geoscan/gscmap-a_2129A",
+    "dir": "images/geoscan/gscmap-a_2129A/gscmap-a_2129A_e_2008_mn01.jpg",
     "doi": "https://doi.org/10.4095/225385"
   },  
   {
@@ -76,7 +92,7 @@
     "type": "Surficial geology",
     "province": "nt",
     "year": 1967,
-    "dir": "geoscan/gscmap-a_1217a",
+    "dir": "images/geoscan/gscmap-a_1217a/gscmap-a_1217a_e_1967_mn01.jpg",
     "doi": "https://doi.org/10.4095/108855"
   },
   {
@@ -84,7 +100,7 @@
     "type": "map",
     "province": "bc",
     "year": 1961,
-    "dir": "minfiles/093H140/PF681607",
+    "dir": "images/minfiles/093H140/PF681607/PF681607.jpg",
     "doi": "https://propertyfile.gov.bc.ca/showDocument.aspx?docno=681607"
   },
   {
@@ -92,7 +108,7 @@
     "type": "map - claim",
     "province": "bc",
     "year": 1986,
-    "dir": "minfiles/082ENE002/PF021108",
+    "dir": "images/minfiles/082ENE002/PF021108/PF021108.jpg",
     "doi": "https://propertyfile.gov.bc.ca/showDocument.aspx?docid=166356"
   },
   {
@@ -100,7 +116,7 @@
     "type": "map - geophysical",
     "province": "bc",
     "year": 1969,
-    "dir": "minfiles/082ENE002/PF021108",
+    "dir": "images/minfiles/082ENE001/PF862545/PF862545.jpg",
     "doi": "https://propertyfile.gov.bc.ca/showDocument.aspx?docid=166356"
   },
   {
@@ -108,7 +124,7 @@
     "type": "map - topographical",
     "province": "bc",
     "year": 1981,
-    "dir": "minfiles/104B193/PF804018",
+    "dir": "images/minfiles/104B193/PF804018/PF804018.jpg",
     "doi": "https://propertyfile.gov.bc.ca/showDocument.aspx?docno=804018"
   }
 ]
