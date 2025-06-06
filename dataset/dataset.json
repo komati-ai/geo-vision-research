@@ -4,7 +4,7 @@
     "type": "SURFICIAL GEOLOGY",
     "province": "nu",
     "year": 2022,
-    "dir": "gid_313536",
+    "dir": "geoscan/gid_313536",
     "doi": "https://doi.org/10.4095/313536"
   },
   {
@@ -12,7 +12,7 @@
     "type": "Surficial geology",
     "province": "bc",
     "year": 1973,
-    "dir": "gscmap-a_1329a_e_1973_mn01",
+    "dir": "geoscan/gscmap-a_1329a_e_1973_mn01",
     "doi": "https://doi.org/10.4095/109064"
   },
   {
@@ -20,7 +20,7 @@
     "type": "Surficial geology",
     "province": "bc",
     "year": 1982,
-    "dir": "gid_129736",
+    "dir": "geoscan/gid_129736",
     "doi": "https://doi.org/10.4095/129736"
   },  
   {
@@ -28,7 +28,7 @@
     "type": "Surficial Geology",
     "province": "bc",
     "year": 1984,
-    "dir": "gid_129894",
+    "dir": "geoscan/gid_129894",
     "doi": "https://doi.org/10.4095/129894"
   },  
   {
@@ -36,7 +36,7 @@
     "type": "Surficial geology",
     "province": "bc",
     "year": 1974,
-    "dir": "gscmap-a_1381a",
+    "dir": "geoscan/gscmap-a_1381a",
     "doi": "https://doi.org/10.4095/109156"
   },  
   {
@@ -44,7 +44,7 @@
     "type": "Surficial geology",
     "province": "on",
     "year": 1987,
-    "dir": "gscmap-a_1644a",
+    "dir": "geoscan/gscmap-a_1644a",
     "doi": "https://doi.org/10.4095/122832"
   },  
   {
@@ -52,7 +52,7 @@
     "type": "Surficial geology",
     "province": "qc",
     "year": 1997,
-    "dir": "gscmap-a_1863a",
+    "dir": "geoscan/gscmap-a_1863a",
     "doi": "https://doi.org/10.4095/208999"
   },
   {
@@ -60,7 +60,7 @@
     "type": "Surficial geology",
     "province": "qc",
     "year": 1996,
-    "dir": "gscmap-a_1862a",
+    "dir": "geoscan/gscmap-a_1862a",
     "doi": "https://doi.org/10.4095/208590"
   },  
   {
@@ -68,7 +68,7 @@
     "type": "Surficial geology",
     "province": "ns",
     "year": 2008,
-    "dir": "gscmap-a_2129A",
+    "dir": "geoscan/gscmap-a_2129A",
     "doi": "https://doi.org/10.4095/225385"
   },  
   {
@@ -76,7 +76,39 @@
     "type": "Surficial geology",
     "province": "nt",
     "year": 1967,
-    "dir": "gscmap-a_1217a",
+    "dir": "geoscan/gscmap-a_1217a",
     "doi": "https://doi.org/10.4095/108855"
+  },
+  {
+    "name": "Map - Wells - Cariboo District",
+    "type": "map",
+    "province": "bc",
+    "year": 1961,
+    "dir": "minfiles/093H140/PF681607",
+    "doi": "https://propertyfile.gov.bc.ca/showDocument.aspx?docno=681607"
+  },
+  {
+    "name": "Map 97A - Franklin Mining Camp showing Platinum Blonde claim",
+    "type": "map - claim",
+    "province": "bc",
+    "year": 1986,
+    "dir": "minfiles/082ENE002/PF021108",
+    "doi": "https://propertyfile.gov.bc.ca/showDocument.aspx?docid=166356"
+  },
+  {
+    "name": "I.P. Survey - Franklin Camp - Fig.8",
+    "type": "map - geophysical",
+    "province": "bc",
+    "year": 1969,
+    "dir": "minfiles/082ENE002/PF021108",
+    "doi": "https://propertyfile.gov.bc.ca/showDocument.aspx?docid=166356"
+  },
+  {
+    "name": "Sulphurets Property - Sheet 4 of 4",
+    "type": "map - topographical",
+    "province": "bc",
+    "year": 1981,
+    "dir": "minfiles/104B193/PF804018",
+    "doi": "https://propertyfile.gov.bc.ca/showDocument.aspx?docno=804018"
   }
 ]
