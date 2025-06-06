@@ -183,12 +183,12 @@ This dataset is maintained as part of geo-vision research initiatives.
 ### Citation
 
 ```bibtex
-@dataset{canada_geological_maps_2024,
-  title={Canada Geological Maps Collection},
-  author={},
-  year={2024},
+@dataset{canada_maps_dataset_2025,
+  title={Canada Maps Dataset},
+  author={Komati AI},
+  year={2025},
   publisher={Hugging Face},
-  url={https://huggingface.co/datasets/[YOUR_USERNAME]/canada-geological-maps}
+  url={https://huggingface.co/datasets/komati-ai/canada-maps-dataset}
 }
 ```
 
