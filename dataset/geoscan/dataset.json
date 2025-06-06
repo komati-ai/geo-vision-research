@@ -1,0 +1,82 @@
+[
+  {
+    "name": "CANADIAN GEOSCIENCE MAP 391 SURFICIAL GEOLOGY EASTERN FOSHEIM PENINSULA",
+    "type": "SURFICIAL GEOLOGY",
+    "province": "nu",
+    "year": 2022,
+    "dir": "gid_313536",
+    "doi": "https://doi.org/10.4095/313536"
+  },
+  {
+    "name": "Surficial geology, Bella Coola, British Columbia",
+    "type": "Surficial geology",
+    "province": "bc",
+    "year": 1973,
+    "dir": "gscmap-a_1329a_e_1973_mn01",
+    "doi": "https://doi.org/10.4095/109064"
+  },
+  {
+    "name": "Surficial geology, Vancouver island and adjacent mainland, British Columbia, map",
+    "type": "Surficial geology",
+    "province": "bc",
+    "year": 1982,
+    "dir": "gid_129736",
+    "doi": "https://doi.org/10.4095/129736"
+  },  
+  {
+    "name": "Surficial Geology, Kootenay Lake, British Columbia-Alberta",
+    "type": "Surficial Geology",
+    "province": "bc",
+    "year": 1984,
+    "dir": "gid_129894",
+    "doi": "https://doi.org/10.4095/129894"
+  },  
+  {
+    "name": "Surficial geology and landforms of Williston Lake area (map 1), British Columbia",
+    "type": "Surficial geology",
+    "province": "bc",
+    "year": 1974,
+    "dir": "gscmap-a_1381a",
+    "doi": "https://doi.org/10.4095/109156"
+  },  
+  {
+    "name": "Surficial geology, Lac Kipawa, Québec-Ontario/ Géologie des formations en surface, Lac Kipawa, Québec-Ontario",
+    "type": "Surficial geology",
+    "province": "on",
+    "year": 1987,
+    "dir": "gscmap-a_1644a",
+    "doi": "https://doi.org/10.4095/122832"
+  },  
+  {
+    "name": "Géologie des formations en surface, région du Cap de Nouvelle-France, du cratère du Nouveau-Québec et de Kangiqsujuaq, Québec-Territoires du Nord-Ouest",
+    "type": "Surficial geology",
+    "province": "qc",
+    "year": 1997,
+    "dir": "gscmap-a_1863a",
+    "doi": "https://doi.org/10.4095/208999"
+  },
+  {
+    "name": "Géologie des formations en surface, région de Salluit et des Lacs Nuvilik, Québec-Territoires du Nord-Ouest",
+    "type": "Surficial geology",
+    "province": "qc",
+    "year": 1996,
+    "dir": "gscmap-a_1862a",
+    "doi": "https://doi.org/10.4095/208590"
+  },  
+  {
+    "name": "Surficial geology and sun-illuminated seafloor topography, Logan Canyon, Scotian Slope, offshore Nova Scotia",
+    "type": "Surficial geology",
+    "province": "ns",
+    "year": 2008,
+    "dir": "gscmap-a_2129A",
+    "doi": "https://doi.org/10.4095/225385"
+  },  
+  {
+    "name": "Surficial Geology, southeastern Barren Grounds, District of Keewatin and District of Mackenzie",
+    "type": "Surficial geology",
+    "province": "nt",
+    "year": 1967,
+    "dir": "gscmap-a_1217a",
+    "doi": "https://doi.org/10.4095/108855"
+  }
+]
