@@ -1,0 +1,58 @@
+[project]
+authors = [{name = "Anton Bossenbroek", email = "anton.bossenbroek@gmail.com"}]
+dependencies = []
+name = "compare_vision_models"
+requires-python = ">= 3.12, <3.13"
+version = "0.1.0"
+
+[build-system]
+build-backend = "hatchling.build"
+requires = ["hatchling"]
+
+[tool.pixi.project]
+channels = ["conda-forge"]
+platforms = ["osx-arm64", "linux-64"]
+
+[tool.pixi.pypi-dependencies]
+compare_vision_models = { path = ".", editable = true }
+
+[tool.pixi.tasks]
+
+
+[tool.pixi.feature.py312.dependencies]
+python = {version="~=3.12.10", channel="conda-forge"}
+
+
+[tool.ruff]
+# Enable specific rules for documentation
+target-version = "py311"
+line-length = 88
+src = ["sonuml",  "test"]
+lint.select = ["D", "D100", "D101", "D102", "D103", "D104", "D105", "D106",
+  "D107", "S", "B", "F403", "ANN", "G", "T20", "PT", "SIM", "ARG", "I", "C90",
+  "PD", "N", "E", "W", "PLE", "PLR", "RUF"]
+lint.ignore = ["D203", "D212"]
+per-file-ignores = { "tests/*" = ["S101", "ANN"] }
+
+[tool.ruff.format]
+docstring-code-format = true
+quote-style = "double"
+
+
+[tool.usort.known]
+first_party = ["src", "test"]
+
+[tool.pixi.feature.dev.dependencies]
+pytest= ">=8.3.5,<8.4"
+
+[tool.pixi.feature.dev.tasks]
+"py.test" = { cmd = "py.test tests --exitfirst", description = "Run tests" }
+
+
+[tool.pixi.environments]
+default = { features = ["py312"], solve-group="default" }
+dev = { features = ["dev", "py312"], solve-group="default" }
+
+[tool.pixi.dependencies]
+datasets = ">=3.6.0,<4"
+huggingface_hub = ">=0.31.4,<0.33"
