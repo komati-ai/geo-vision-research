@@ -62,14 +62,15 @@ Each entry in the metadata contains:
 
 ### File Organization
 
-```
+```txt
 dataset/
 ├── images/
-│   ├── geoscan/          # Geological Survey of Canada maps
-│   │   ├── gid_*/        # Individual map directories
-│   │   └── gscmap-*/     # GSC map series
-│   └── minfiles/         # BC MINFILE mineral exploration maps
-│       └── */            # Individual property directories
+|   └── train/
+│        ├── geoscan/          # Geological Survey of Canada maps
+│        │   ├── gid_*/        # Individual map directories
+│        │   └── gscmap-*/     # GSC map series
+│        └── minfiles/         # BC MINFILE mineral exploration maps
+│            └── */            # Individual property directories
 ├── metadata.jsonl        # Complete dataset metadata
 └── README.md            # This dataset card
 ```
